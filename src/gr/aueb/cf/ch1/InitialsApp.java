@@ -16,8 +16,5 @@ public class InitialsApp {
         System.out.println(" **             **   **             ");
         System.out.println(" *****************  *************** ");
 
-
-
-
     }
 }
