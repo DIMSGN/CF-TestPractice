@@ -1,5 +1,8 @@
 package gr.aueb.cf.ch1;
 
+/**
+ * This program print words as a list in console.
+ */
 public class MenuApp {
     public static void main(String[] Args) {
         System.out.println("Επιλέξτε μία από τις παρακάτω επιλογές:\n" +
