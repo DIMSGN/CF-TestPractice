@@ -1,7 +1,5 @@
 package gr.aueb.cf.ch1;
 
-import java.io.PrintStream;
-
 /**
  * εκτυπώνει τα αρχικά του ονόματός μου
  * με κεφαλαία γράμματα, με αστεράκια
