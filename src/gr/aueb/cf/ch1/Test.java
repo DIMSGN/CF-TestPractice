@@ -2,7 +2,7 @@ package gr.aueb.cf.ch1;
 /** This program is for testing
  * different ways of printing the output.
  */
-public class test {
+public class Test {
     public static void main(String[] args) {
         //declare
         int i = 0;
