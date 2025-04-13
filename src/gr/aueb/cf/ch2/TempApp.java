@@ -26,7 +26,6 @@ public class TempApp {
         humidity = scanner.nextInt();
         System.out.print("Θα θέλατε να ανοίξετε την θέρμανση(true/false);");
         userRequest = scanner.nextBoolean();
-
         openHeater = (temp < 18) || (humidity > 70 && userRequest);
 
 
