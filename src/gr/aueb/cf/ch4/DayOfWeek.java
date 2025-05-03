@@ -14,11 +14,14 @@ public class DayOfWeek {
         Scanner scanner = new Scanner(System.in);
         int choice;
 
-        System.out.print("Παρακαλώ εισάγετε έναν ακέραιο απο το 1 ως το 7 :");
+        System.out.print("Παρακαλώ εισάγετε έναν ακέραιο απο το 1 ως το 7 : ");
         choice = scanner.nextInt();
 
         switch (choice) {
-            case 1 -> System.out.println("Δευτέρα");
+            case 1 -> {
+                System.out.print("Επιλέξατε : ");
+                System.out.println("Δευτέρα");
+            }
             case 2 -> System.out.println("Τρίτη");
             case 3 -> System.out.println("Τετάρτη");
             case 4 -> System.out.println("Πέμπτη");
