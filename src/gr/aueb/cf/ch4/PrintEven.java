@@ -12,4 +12,5 @@ public class PrintEven {
         for (int i = 2; i <= 20; i = i + step)
             System.out.println(i);
     }
+
 }
